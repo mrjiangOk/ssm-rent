@@ -12,4 +12,7 @@ public class User {
     public static void test(){
         System.out.println("xxx");
     }
+    public static void test2(){
+        System.out.println("xxx");
+    }
 }
