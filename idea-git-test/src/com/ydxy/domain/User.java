@@ -9,4 +9,7 @@ public class User {
         System.out.println("hello");
         System.out.println("sec hello");
     }
+    public static test(){
+        System.out.println("xxx");
+    }
 }
